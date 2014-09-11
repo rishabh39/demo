@@ -29,9 +29,9 @@ background-color:silver;
 <div>
 			
 <ul data-role="listview" data-icon="false"  data-inset="true" data-color="white" data-shadow="false" data-divider-theme="c">
-    <li style="color:white;"><a href="www.google.com" target="_blank">Acura</a></li>
-    <li style="color:white;"><a href="www.google.com">Audi</a></li>
-    <li style="color:white;"><a href="www.google.com">BMW</a></li>
+    <li><a href="www.google.com" target="_blank">Acura</a></li>
+    <li ><a href="www.google.com">Audi</a></li>
+    <li ><a href="www.google.com">BMW</a></li>
    
 </ul>
 </div>
@@ -39,10 +39,10 @@ background-color:silver;
 <strong>Hope to see u again</strong>
 <ul data-role="listview" data-icon="false"  data-inset="true" data-shadow="false">
     <li ><a href="#" >Acura</a></li>
-    <li style="color:white;"><a href="#">Audi</a></li>
-    <li style="color:white;"><a href="#">BMW</a></li>
-    <li style="color:white;"><a href="#">Cadillac</a></li>
-    <li style="color:white;"><a href="#">Ferrari</a></li>
+    <li><a href="#">Audi</a></li>
+    <li ><a href="#">BMW</a></li>
+    <li ><a href="#">Cadillac</a></li>
+    <li ><a href="#">Ferrari</a></li>
 </ul>
 </div>
 </div>
