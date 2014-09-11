@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" media="screen and (min-width:300px) and (max-width:640px)" href="css/hh.css">
+
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.js">
+</script>
+<style>
+
+header {
+width:100%;
+height:30px;
+background-color:silver;
+}
+
+
+</style>
+</head>
+<body>
+<header>
+<center><strong><span data-shadow="flase">Home</span><strong></center></header>
+<section>
+<div> <strong><span>Search On www</span></strong>
+ 
+<div data-role="content">
+<div>
+			
+<ul data-role="listview" data-icon="false"  data-inset="true" data-color="white" data-shadow="false" data-divider-theme="c">
+    <li style="color:white;"><a href="www.google.com" target="_blank">Acura</a></li>
+    <li style="color:white;"><a href="www.google.com">Audi</a></li>
+    <li style="color:white;"><a href="www.google.com">BMW</a></li>
+   
+</ul>
+</div>
+<div>
+<strong>Hope to see u again</strong>
+<ul data-role="listview" data-icon="false"  data-inset="true" data-shadow="false">
+    <li ><a href="#" >Acura</a></li>
+    <li style="color:white;"><a href="#">Audi</a></li>
+    <li style="color:white;"><a href="#">BMW</a></li>
+    <li style="color:white;"><a href="#">Cadillac</a></li>
+    <li style="color:white;"><a href="#">Ferrari</a></li>
+</ul>
+</div>
+</div>
+</body>
+</html>
