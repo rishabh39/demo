@@ -23,7 +23,7 @@ background-color:silver;
 <header>
 <center><strong><span data-shadow="flase">Home</span><strong></center></header>
 <section>
-<div> <strong><span>Search On www</span></strong>
+<div> <strong><span>Search On www</span></strong></div>
  
 <div data-role="content">
 <div>
@@ -46,5 +46,6 @@ background-color:silver;
 </ul>
 </div>
 </div>
+</section>
 </body>
 </html>
